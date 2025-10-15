@@ -1,7 +1,5 @@
--- 🔴⚫ RADIATOR PLAYER
--- LocalScript para executor
-
--- Tocar som ao carregar
+- radiador de manos
+  
 local sound = Instance.new("Sound")
 sound.SoundId = "rbxassetid://2865227271"
 sound.Volume = 3
